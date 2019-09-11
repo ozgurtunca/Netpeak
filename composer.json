@@ -1,0 +1,22 @@
+{
+    "name": "ozgurtunca/netpeak",
+    "description": "Netspeak URL parser for getting image links and save them in a csv file",
+    "authors": [
+        {
+            "name": "Ozgur Tunca",
+            "email": "ozgurtunca@hotmail.com"
+        }
+    ],
+
+	
+   "autoload": {
+	   
+	   "psr-4": {
+		   
+		   "Netpeak\\": "./"
+		   
+		   }
+	   
+	   }
+	
+}
